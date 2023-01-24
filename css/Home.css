@@ -1,0 +1,42 @@
+#title{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    background-color: bisque;
+}
+#title{
+    background-color: black;
+    color: white;
+    border-radius: 20%;
+    border-radius: 40%;
+   height: 5em;
+   vertical-align: middle;
+}
+.navbar{
+    
+    background-color: rgb(71, 19, 19);
+    /* height: 5em; */
+    text-align: center;
+    padding: 1em;
+    justify-content: space-evenly;
+    justify-content:space-around;
+}
+a{
+    color: white;
+}
+button{
+    border-radius: 50%;
+    size: 6em;
+    height: 2em;
+    width: 12em;
+}
+.clickhere{
+    color: black;
+}
+#Booksavail{
+    height: 3em;
+    vertical-align:middle;
+    background-color: rgb(164, 230, 230);
+}
